@@ -4,6 +4,14 @@ import time
 import sys
 import re
 
+"""
+This scraper is built for generating pure text file for typing execrises
+
+Usage:
+python scraper https://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tutorial/
+
+"""
+
 def main(sourceURL):
   driver = webdriver.Chrome(executable_path='/Users/billykong/workspace/github/scraper/webdriver/chromedriver')
   # add checking for http preffix
