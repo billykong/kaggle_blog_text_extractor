@@ -1,12 +1,6 @@
 Title:
 Scraping for Craft Beers: A Dataset Creation Tutorial | No Free Hunch
 
-
-
-25
-
-Scraping for Craft Beers: A Dataset Creation Tutorial
-
 Jean-Nicholas Hould|01.31.2017
 
 Whether it's for work, learning, or just fun, many data projects begin with tracking down the right dataset. In this tutorial, Jean-Nicholas Hould shares how he scraped the craft beer dataset he published on Kaggle for anyone to enjoy and analyze. His tutorial, originally posted on his blog, is the perfect guide to help get you started on your own project.
